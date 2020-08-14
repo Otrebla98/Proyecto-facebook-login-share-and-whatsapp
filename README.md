@@ -1,3 +1,15 @@
+Frontend React-Native
+
+Integrantes:
+ * Roque Alberto Andrade Aguirre
+ * Salvador Vidal Martínez
+ * Jesús Martínez Vázquez
+ * Raúl Ernesto Flores Ramirez
+
+
+
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
